@@ -1,6 +1,6 @@
 ---
 layout: article
-title:"这是我的第一篇博客"
+title: 第一篇博客
 ---
 
 # 计算机是怎么存数据的
